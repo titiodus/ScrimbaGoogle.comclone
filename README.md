@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# Scrimba Google.com Clone project.
 
 ## Supporting Scrimba
 
